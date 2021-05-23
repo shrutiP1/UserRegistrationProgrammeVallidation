@@ -60,7 +60,7 @@ public class UserRegistration
 		}
 		else
 		{
-			throw new UserRegistrationException(emailId+"is not vallid Email-id.Enter Vallid Email-id");
+			throw new UserRegistrationException(emailId+"is not vallid Email-id. Enter Vallid Email-id");
 		}
 
 	}
